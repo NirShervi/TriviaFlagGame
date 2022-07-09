@@ -1,7 +1,7 @@
 # Flag Trivia Game
 ## Introduction 
 Flag Trivia Game is an IOS application created in XCode and written in Swift language.
-The application is a Trivia game with 15 questions, every stage there is a flag and four options for you to choose from. every session you have 3 hearts after mistaking three times you are lost if you complete fifteen questions without mistaking three times, you win. 
+The application is a Trivia game with fifteen questions, every stage there is a flag and four options for you to choose from. every session you have three hearts after mistaking three times you are lost if you complete fifteen questions without mistaking three times, you win. 
 
 ## Tools
 ### Development platform:
